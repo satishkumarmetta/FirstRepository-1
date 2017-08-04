@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-file4 local update
-=======
-file4
-new update on GITHUB
->>>>>>> e3747a278688dbfb9b8c1711432b56262663894e
+
+file4 local update new
+
